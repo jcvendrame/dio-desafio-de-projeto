@@ -1,4 +1,4 @@
-# dio-desafio-de-projeto
+# Desafio de Projeto sobre Git/GitHub
 Primeiro repositório do desafio de projeto sobre Git/GitHub
 
 ## Links Úteis
